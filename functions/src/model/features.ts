@@ -3,5 +3,6 @@ export default interface Features{
     attachedBathroom:Boolean;
     kitchen:Boolean;
     parkingSpace:Boolean;
+    girlsOnly:Boolean;
 
 }
